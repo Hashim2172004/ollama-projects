@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- @format -->
 # Welcome to The AI Guild 🚀
 
@@ -39,3 +40,6 @@ Then **The AI Guild** is the perfect fit for you.
 Want to dive deeper and get the full experience? 🚀[Join the AI Guild Community](https://bit.ly/ai-guild-join) and unlock all the benefits of our growing community.
 
 We look forward to seeing what you’ll build with us!
+=======
+# ollama-projects
+>>>>>>> fc21903d388ebb33ad8f4298f1766c0bbc0cebc2
